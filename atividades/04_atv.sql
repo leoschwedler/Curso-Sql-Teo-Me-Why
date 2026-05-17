@@ -1,9 +1,9 @@
--- SELECT idProduto,
---        DescNomeProduto
+SELECT idProduto,
+       DescNomeProduto
 
--- FROM produtos
+FROM produtos
 
--- WHERE DescNomeProduto LIKE '%churn%' -- comecando com churn, ou terminando
+WHERE DescNomeProduto LIKE '%churn%' -- comecando com churn, ou terminando
 
 
 -- Usando os Operadores OR

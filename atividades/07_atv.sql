@@ -1,3 +1,3 @@
 SELECT *
 FROM clientes 
-WHERE qtdePontos = 0
+WHERE QtdePontos = 0
